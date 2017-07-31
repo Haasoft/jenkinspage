@@ -1,0 +1,163 @@
+[
+  {
+    "type": "Sale",
+    "position": -1,
+    "link": "http://www.net-a-porter.com/alfresco/nap/webAssets/NAPMobileApp/final_clearance.html",
+    "images": {
+      "INTL": {
+        "en": [
+          {
+            "types": [
+              {
+                "device": "app",
+                "url": "http://www.net-a-porter.com/alfresco/nap/webAssets/NAPMobileApp/2017/07/06/sale_promo.jpg"
+              }
+            ]
+          }
+        ],
+        "fr": [
+          {
+            "types": [
+              {
+                "device": "app",
+                "url": "http://www.net-a-porter.com/alfresco/nap/webAssets/NAPMobileApp/2017/07/06/sale_promo.jpg"
+              }
+            ]
+          }
+        ],
+        "de": [
+          {
+            "types": [
+              {
+                "device": "app",
+                "url": "http://www.net-a-porter.com/alfresco/nap/webAssets/NAPMobileApp/2017/07/06/sale_promo.jpg"
+              }
+            ]
+          }
+        ],
+        "zh": [
+          {
+            "types": [
+              {
+                "device": "app",
+                "url": "http://www.net-a-porter.com/alfresco/nap/webAssets/NAPMobileApp/2017/07/06/sale_promo.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      "AM": {
+        "en": [
+          {
+            "types": [
+              {}
+            ]
+          }
+        ],
+        "fr": [
+          {
+            "types": [
+              {}
+            ]
+          }
+        ],
+        "de": [
+          {
+            "types": [
+              {}
+            ]
+          }
+        ],
+        "zh": [
+          {
+            "types": [
+              {}
+            ]
+          }
+        ]
+      },
+      "APAC": {
+        "en": [
+          {
+            "types": [
+              {
+                "device": "app",
+                "url": "http://www.net-a-porter.com/alfresco/nap/webAssets/NAPMobileApp/2017/07/06/sale_promo.jpg"
+              }
+            ]
+          }
+        ],
+        "fr": [
+          {
+            "types": [
+              {
+                "device": "app",
+                "url": "http://www.net-a-porter.com/alfresco/nap/webAssets/NAPMobileApp/2017/07/06/sale_promo.jpg"
+              }
+            ]
+          }
+        ],
+        "de": [
+          {
+            "types": [
+              {
+                "device": "app",
+                "url": "http://www.net-a-porter.com/alfresco/nap/webAssets/NAPMobileApp/2017/07/06/sale_promo.jpg"
+              }
+            ]
+          }
+        ],
+        "zh": [
+          {
+            "types": [
+              {
+                "device": "app",
+                "url": "http://www.net-a-porter.com/alfresco/nap/webAssets/NAPMobileApp/2017/07/06/sale_promo.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "title": {
+      "INTL": {
+        "en": "FINAL CLEARANCE",
+        "fr": "DÉMARQUE ULTIME",
+        "de": "SCHLUSSVERKAUF",
+        "zh": "特惠最后一波"
+      },
+      "AM": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "zh": ""
+      },
+      "APAC": {
+        "en": "FINAL CLEARANCE",
+        "fr": "DÉMARQUE ULTIME",
+        "de": "SCHLUSSVERKAUF",
+        "zh": "特惠最后一波"
+      }
+    },
+    "subtitle": {
+      "INTL": {
+        "en": "Snap up our hottest sale looks",
+        "fr": "Adoptez les pièces soldées stars",
+        "de": "Schnappen Sie sich die Must-haves Looks im Sale",
+        "zh": "最后机会拥有人气特惠精品"
+      },
+      "AM": {
+        "en": "",
+        "fr": "",
+        "de": "",
+        "zh": ""
+      },
+      "APAC": {
+        "en": "Snap up our hottest sale looks",
+        "fr": "Adoptez les pièces soldées stars",
+        "de": "Schnappen Sie sich die Must-haves Looks im Sale",
+        "zh": "最后机会拥有人气特惠精品"
+      }
+    }
+  }
+]

@@ -1,0 +1,495 @@
+
+
+    {
+        "$schema": "http://json-schema.org/draft-04/schema#",
+        "definitions": {},
+        "id": "http://example.com/example.json",
+        "items": {
+            "id": "/items",
+            "properties": {
+                "images": {
+                    "id": "/items/properties/images",
+                    "properties": {
+                        "AM": {
+                            "id": "/items/properties/images/properties/AM",
+                            "properties": {
+                                "de": {
+                                    "id": "/items/properties/images/properties/AM/properties/de",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/AM/properties/de/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/AM/properties/de/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/AM/properties/de/items/properties/types/items",
+                                                    "properties": {},
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                },
+                                "en": {
+                                    "id": "/items/properties/images/properties/AM/properties/en",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/AM/properties/en/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/AM/properties/en/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/AM/properties/en/items/properties/types/items",
+                                                    "properties": {},
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                },
+                                "fr": {
+                                    "id": "/items/properties/images/properties/AM/properties/fr",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/AM/properties/fr/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/AM/properties/fr/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/AM/properties/fr/items/properties/types/items",
+                                                    "properties": {},
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                },
+                                "zh": {
+                                    "id": "/items/properties/images/properties/AM/properties/zh",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/AM/properties/zh/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/AM/properties/zh/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/AM/properties/zh/items/properties/types/items",
+                                                    "properties": {},
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                }
+                            },
+                            "type": "object"
+                        },
+                        "APAC": {
+                            "id": "/items/properties/images/properties/APAC",
+                            "properties": {
+                                "de": {
+                                    "id": "/items/properties/images/properties/APAC/properties/de",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/APAC/properties/de/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/APAC/properties/de/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/APAC/properties/de/items/properties/types/items",
+                                                    "properties": {
+                                                        "device": {
+                                                            "id": "/items/properties/images/properties/APAC/properties/de/items/properties/types/items/properties/device",
+                                                            "type": "string"
+                                                        },
+                                                        "url": {
+                                                            "id": "/items/properties/images/properties/APAC/properties/de/items/properties/types/items/properties/url",
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                },
+                                "en": {
+                                    "id": "/items/properties/images/properties/APAC/properties/en",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/APAC/properties/en/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/APAC/properties/en/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/APAC/properties/en/items/properties/types/items",
+                                                    "properties": {
+                                                        "device": {
+                                                            "id": "/items/properties/images/properties/APAC/properties/en/items/properties/types/items/properties/device",
+                                                            "type": "string"
+                                                        },
+                                                        "url": {
+                                                            "id": "/items/properties/images/properties/APAC/properties/en/items/properties/types/items/properties/url",
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                },
+                                "fr": {
+                                    "id": "/items/properties/images/properties/APAC/properties/fr",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/APAC/properties/fr/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/APAC/properties/fr/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/APAC/properties/fr/items/properties/types/items",
+                                                    "properties": {
+                                                        "device": {
+                                                            "id": "/items/properties/images/properties/APAC/properties/fr/items/properties/types/items/properties/device",
+                                                            "type": "string"
+                                                        },
+                                                        "url": {
+                                                            "id": "/items/properties/images/properties/APAC/properties/fr/items/properties/types/items/properties/url",
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                },
+                                "zh": {
+                                    "id": "/items/properties/images/properties/APAC/properties/zh",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/APAC/properties/zh/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/APAC/properties/zh/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/APAC/properties/zh/items/properties/types/items",
+                                                    "properties": {
+                                                        "device": {
+                                                            "id": "/items/properties/images/properties/APAC/properties/zh/items/properties/types/items/properties/device",
+                                                            "type": "string"
+                                                        },
+                                                        "url": {
+                                                            "id": "/items/properties/images/properties/APAC/properties/zh/items/properties/types/items/properties/url",
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                }
+                            },
+                            "type": "object"
+                        },
+                        "INTL": {
+                            "id": "/items/properties/images/properties/INTL",
+                            "properties": {
+                                "de": {
+                                    "id": "/items/properties/images/properties/INTL/properties/de",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/INTL/properties/de/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/INTL/properties/de/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/INTL/properties/de/items/properties/types/items",
+                                                    "properties": {
+                                                        "device": {
+                                                            "id": "/items/properties/images/properties/INTL/properties/de/items/properties/types/items/properties/device",
+                                                            "type": "string"
+                                                        },
+                                                        "url": {
+                                                            "id": "/items/properties/images/properties/INTL/properties/de/items/properties/types/items/properties/url",
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                },
+                                "en": {
+                                    "id": "/items/properties/images/properties/INTL/properties/en",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/INTL/properties/en/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/INTL/properties/en/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/INTL/properties/en/items/properties/types/items",
+                                                    "properties": {
+                                                        "device": {
+                                                            "id": "/items/properties/images/properties/INTL/properties/en/items/properties/types/items/properties/device",
+                                                            "type": "string"
+                                                        },
+                                                        "url": {
+                                                            "id": "/items/properties/images/properties/INTL/properties/en/items/properties/types/items/properties/url",
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                },
+                                "fr": {
+                                    "id": "/items/properties/images/properties/INTL/properties/fr",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/INTL/properties/fr/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/INTL/properties/fr/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/INTL/properties/fr/items/properties/types/items",
+                                                    "properties": {
+                                                        "device": {
+                                                            "id": "/items/properties/images/properties/INTL/properties/fr/items/properties/types/items/properties/device",
+                                                            "type": "string"
+                                                        },
+                                                        "url": {
+                                                            "id": "/items/properties/images/properties/INTL/properties/fr/items/properties/types/items/properties/url",
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                },
+                                "zh": {
+                                    "id": "/items/properties/images/properties/INTL/properties/zh",
+                                    "items": {
+                                        "id": "/items/properties/images/properties/INTL/properties/zh/items",
+                                        "properties": {
+                                            "types": {
+                                                "id": "/items/properties/images/properties/INTL/properties/zh/items/properties/types",
+                                                "items": {
+                                                    "id": "/items/properties/images/properties/INTL/properties/zh/items/properties/types/items",
+                                                    "properties": {
+                                                        "device": {
+                                                            "id": "/items/properties/images/properties/INTL/properties/zh/items/properties/types/items/properties/device",
+                                                            "type": "string"
+                                                        },
+                                                        "url": {
+                                                            "id": "/items/properties/images/properties/INTL/properties/zh/items/properties/types/items/properties/url",
+                                                            "type": "string"
+                                                        }
+                                                    },
+                                                    "type": "object"
+                                                },
+                                                "type": "array"
+                                            }
+                                        },
+                                        "type": "object"
+                                    },
+                                    "type": "array"
+                                }
+                            },
+                            "type": "object"
+                        }
+                    },
+                    "type": "object"
+                },
+                "link": {
+                    "id": "/items/properties/link",
+                    "type": "string"
+                },
+                "position": {
+                    "id": "/items/properties/position",
+                    "type": "integer"
+                },
+                "subtitle": {
+                    "id": "/items/properties/subtitle",
+                    "properties": {
+                        "AM": {
+                            "id": "/items/properties/subtitle/properties/AM",
+                            "properties": {
+                                "de": {
+                                    "id": "/items/properties/subtitle/properties/AM/properties/de",
+                                    "type": "string"
+                                },
+                                "en": {
+                                    "id": "/items/properties/subtitle/properties/AM/properties/en",
+                                    "type": "string"
+                                },
+                                "fr": {
+                                    "id": "/items/properties/subtitle/properties/AM/properties/fr",
+                                    "type": "string"
+                                },
+                                "zh": {
+                                    "id": "/items/properties/subtitle/properties/AM/properties/zh",
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        },
+                        "APAC": {
+                            "id": "/items/properties/subtitle/properties/APAC",
+                            "properties": {
+                                "de": {
+                                    "id": "/items/properties/subtitle/properties/APAC/properties/de",
+                                    "type": "string"
+                                },
+                                "en": {
+                                    "id": "/items/properties/subtitle/properties/APAC/properties/en",
+                                    "type": "string"
+                                },
+                                "fr": {
+                                    "id": "/items/properties/subtitle/properties/APAC/properties/fr",
+                                    "type": "string"
+                                },
+                                "zh": {
+                                    "id": "/items/properties/subtitle/properties/APAC/properties/zh",
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        },
+                        "INTL": {
+                            "id": "/items/properties/subtitle/properties/INTL",
+                            "properties": {
+                                "de": {
+                                    "id": "/items/properties/subtitle/properties/INTL/properties/de",
+                                    "type": "string"
+                                },
+                                "en": {
+                                    "id": "/items/properties/subtitle/properties/INTL/properties/en",
+                                    "type": "string"
+                                },
+                                "fr": {
+                                    "id": "/items/properties/subtitle/properties/INTL/properties/fr",
+                                    "type": "string"
+                                },
+                                "zh": {
+                                    "id": "/items/properties/subtitle/properties/INTL/properties/zh",
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        }
+                    },
+                    "type": "object"
+                },
+                "title": {
+                    "id": "/items/properties/title",
+                    "properties": {
+                        "AM": {
+                            "id": "/items/properties/title/properties/AM",
+                            "properties": {
+                                "de": {
+                                    "id": "/items/properties/title/properties/AM/properties/de",
+                                    "type": "string"
+                                },
+                                "en": {
+                                    "id": "/items/properties/title/properties/AM/properties/en",
+                                    "type": "string"
+                                },
+                                "fr": {
+                                    "id": "/items/properties/title/properties/AM/properties/fr",
+                                    "type": "string"
+                                },
+                                "zh": {
+                                    "id": "/items/properties/title/properties/AM/properties/zh",
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        },
+                        "APAC": {
+                            "id": "/items/properties/title/properties/APAC",
+                            "properties": {
+                                "de": {
+                                    "id": "/items/properties/title/properties/APAC/properties/de",
+                                    "type": "string"
+                                },
+                                "en": {
+                                    "id": "/items/properties/title/properties/APAC/properties/en",
+                                    "type": "string"
+                                },
+                                "fr": {
+                                    "id": "/items/properties/title/properties/APAC/properties/fr",
+                                    "type": "string"
+                                },
+                                "zh": {
+                                    "id": "/items/properties/title/properties/APAC/properties/zh",
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        },
+                        "INTL": {
+                            "id": "/items/properties/title/properties/INTL",
+                            "properties": {
+                                "de": {
+                                    "id": "/items/properties/title/properties/INTL/properties/de",
+                                    "type": "string"
+                                },
+                                "en": {
+                                    "id": "/items/properties/title/properties/INTL/properties/en",
+                                    "type": "string"
+                                },
+                                "fr": {
+                                    "id": "/items/properties/title/properties/INTL/properties/fr",
+                                    "type": "string"
+                                },
+                                "zh": {
+                                    "id": "/items/properties/title/properties/INTL/properties/zh",
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        }
+                    },
+                    "type": "object"
+                },
+                "type": {
+                    "id": "/items/properties/type",
+                    "type": "string"
+                }
+            },
+            "type": "object"
+        },
+        "type": "array"
+    }
+

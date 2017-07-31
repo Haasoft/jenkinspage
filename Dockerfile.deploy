@@ -1,0 +1,7 @@
+# TODO: change to use artifactory URL
+FROM docker.artifactory.yoox.net/amazonlinux-awscli
+MAINTAINER DOF <Ojewale.Olusegun.external@ynap.com>
+
+#RUN aws configure set preview.cloudfront true
+WORKDIR /configuration
+ADD . $WORKDIR

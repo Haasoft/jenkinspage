@@ -1,0 +1,38 @@
+{
+  "support": {
+    "iOS": {
+      "minimum": "8.0.0",
+      "recommended": "8.3.0",
+      "recommendedMessage": {
+        "zh-Hans": "我们希望您能拥有更加愉悦的购物体验！请升级App，享受全面更新的功能。",
+        "fr": "Nous souhaitons améliorer votre expérience shopping. Mettez votre app à jour pour accéder aux dernières fonctionnalités",
+        "en": "We want to improve your shopping experience. Please update your app to get access to the latest features",
+        "de": "Wir möchten Ihr Shoppingerlebnis verbessern. Bitte aktualisieren Sie Ihre App, um die neusten Features zu sehen"
+      }
+    },
+    "android": {
+      "minimum": 70,
+      "recommended": 75,
+      "recommendedMessage": {
+        "zh-Hans": "我们希望您能拥有更加愉悦的购物体验！请升级App，享受全面更新的功能。",
+        "fr": "Nous souhaitons améliorer votre expérience shopping. Mettez votre app à jour pour accéder aux dernières fonctionnalités",
+        "en": "We want to improve your shopping experience. Please update your app to get access to the latest features",
+        "de": "Wir möchten Ihr Shoppingerlebnis verbessern. Bitte aktualisieren Sie Ihre App, um die neusten Features zu sehen"
+      }
+    }
+  },
+  "serviceMessage": {
+    "iOS": {
+      "zh-Hans": "",
+      "fr": "",
+      "en": "",
+      "de": ""
+    },
+    "android": {
+      "zh-Hans": "",
+      "fr": "",
+      "en": "",
+      "de": ""
+    }
+  }
+}
